@@ -38,7 +38,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="31" selection-start="405" selection-end="405" vertical-scroll-proportion="0.40377805" vertical-offset="0" max-vertical-offset="847">
+            <state line="20" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.38252658" vertical-offset="0" max-vertical-offset="847">
               <folding />
             </state>
           </provider>
@@ -374,7 +374,11 @@
       <created>1388702936219</created>
       <updated>1388702936219</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Change: name of variables">
+      <created>1388703029479</created>
+      <updated>1388703029479</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -413,7 +417,8 @@
     <MESSAGE value="Change var name on main.js file." />
     <MESSAGE value="set the correct directory to main.js" />
     <MESSAGE value="Fix: some wrong code must to be fixed!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: some wrong code must to be fixed!" />
+    <MESSAGE value="Change: name of variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change: name of variables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -456,7 +461,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="31" selection-start="405" selection-end="405" vertical-scroll-proportion="0.40377805" vertical-offset="0" max-vertical-offset="847">
+        <state line="20" column="13" selection-start="373" selection-end="373" vertical-scroll-proportion="0.38252658" vertical-offset="0" max-vertical-offset="847">
           <folding />
         </state>
       </provider>

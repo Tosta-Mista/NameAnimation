@@ -18,5 +18,5 @@ else{
     bubbleShape = "square";
 }
 
-bounceName();
+bounceBubbles();
 drawName(myName, letterColors);
